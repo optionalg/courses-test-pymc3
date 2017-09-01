@@ -210,7 +210,7 @@ from pymc3 import fit
 
 with radon_model:
 
-    samples = fit(random_seed=42).sample(1000)
+    samples = fit(random_seed=42).sample(10)
 ```
 
 *** =solution
