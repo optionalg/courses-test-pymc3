@@ -83,7 +83,7 @@ hennepin_radon = radon.query('county=="HENNEPIN"').log_radon
 sns.distplot(hennepin_radon)
 plt.show()
 
-print(hennepin_radon.shape
+print(hennepin_radon.shape)
 
 ```
 
