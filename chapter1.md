@@ -1,8 +1,7 @@
 ---
 title       : Basic Bayesian Inference
-description : Insert the chapter description here
-attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+description : Example code taken from <a href="https://github.com/fonnesbeck/intro_stat_modeling_2017/tree/master/notebooks"target="_blank">https://github.com/fonnesbeck/intro_stat_modeling_2017/tree/master/notebooks</a> and <a href="http://docs.pymc.io/notebooks/getting_started.html"target="_blank">Getting started with PyMC3</a>.
+
 
 
 
